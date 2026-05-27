@@ -86,4 +86,5 @@ Career counselors for guidance support
 Aspiring Data Scientist | AI Enthusiast
 
 LinkedIn: https://linkedin.com/in/jinshauv
+
 GitHub: https://github.com/jinshauv95-web
